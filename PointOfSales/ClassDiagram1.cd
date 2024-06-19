@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PointOfSales.BL.customersBL">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAACAACAAAAAAAAAAIAABAAAAEA=</HashCode>
+      <FileName>BL\customersBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.BL.MyUserBL">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAgAAAAAgAAAAAAAAAEACAAAAAgAAAAAAAkQAAA=</HashCode>
+      <FileName>BL\MyUserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.BL.productsBL">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIAAAAAAAAACAAAATAAAAAEACDAAIAMABAAAgA=</HashCode>
+      <FileName>BL\productsBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.DL.customersDL" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\customersDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.DL.MyUserDL">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABAAAAAAAAAABAgAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DL\MyUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.DL.productsDL">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABAAAAAAAAAABAAAAAAAAAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>DL\productsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.Program">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.UI.customersUI" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\customersUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.UI.menuUI">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAA=</HashCode>
+      <FileName>UI\menuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.UI.MyUserUI">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAEAACAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MyUserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSales.UI.productsUI">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAASAAQAAABCAAAAAAAACA=</HashCode>
+      <FileName>UI\productsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

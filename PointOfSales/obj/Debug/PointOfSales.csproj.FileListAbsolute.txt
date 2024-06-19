@@ -1,0 +1,7 @@
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe.config
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\bin\Debug\PointOfSales.pdb
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\obj\Debug\PointOfSales.csproj.AssemblyReference.cache
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\obj\Debug\PointOfSales.csproj.CoreCompileInputs.cache
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\obj\Debug\PointOfSales.exe
+C:\University\Semester2\Week 5\PointOfSales\PointOfSales\obj\Debug\PointOfSales.pdb
